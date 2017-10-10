@@ -9,5 +9,7 @@ public class AnaEkran extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ana_ekran);
+
+        //asdads
     }
 }
